@@ -1,7 +1,7 @@
 .container{
     display: flex;
     flex-direction: column;
-    width: 300px;
+    width: 330px;
     height: fit-content;
     margin: 20px 10px;
     
@@ -10,11 +10,11 @@
 .paytype{
     display: flex;
     align-items: center;
-    width: 300px;
-    height: 110px;
+    width: 330px;
+    height: 90px;
     border: 1px solid white;
     border-radius: 14px;
-    padding: 25px;
+    padding: 35px;
     margin-bottom: 15px;
     transition: 0.5s;
     color: black;
@@ -30,8 +30,8 @@
 }
 
 .paytype p{
- font-size: 18px;
- margin-left: 25px;
+ font-size: 17px;
+ margin-left: 45px;
  margin-bottom: 10px;
 }
 
@@ -44,6 +44,6 @@
 }
 
 .photo span{
- font-size: 12px;
- margin-top: 10px;
+ font-size: 11px;
+ margin-top: 5px;
 }
